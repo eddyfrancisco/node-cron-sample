@@ -1,0 +1,22 @@
+{
+  "name": "cron-sample",
+  "version": "1.0.0",
+  "description": "Aplicação de exemplo para testes de função do Node Cron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyfrancisco/node-cron-sample.git"
+  },
+  "author": "Eddy Francisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddyfrancisco/node-cron-sample/issues"
+  },
+  "homepage": "https://github.com/eddyfrancisco/node-cron-sample#readme",
+  "dependencies": {
+    "node-cron": "^3.0.0"
+  }
+}
